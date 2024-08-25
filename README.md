@@ -1,6 +1,6 @@
 ## Hi there, I'm Delfina 👋
 
-I'm a third-year student at UADE with a strong passion for technology and continuous learning. As an aspiring developer, I'm diving into various programming languages and frameworks to discover where I can make the most impact in the tech world. I'm enthusiastic about building projects, exploring new tools, and honing my skills to prepare for a future in software development.
+I'm a third-year student Bachelor's Degree in Information Systems at UADE with a strong passion for technology and continuous learning. As an aspiring developer, I'm diving into various programming languages and frameworks to discover where I can make the most impact in the tech world. I'm enthusiastic about building projects, exploring new tools, and honing my skills to prepare for a future in software development.
 
 ## 🚀 Continuous Learning
 
