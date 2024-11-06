@@ -1,6 +1,6 @@
 ## Hi there, I'm Delfina 👋
 
-I'm a third-year student Bachelor's Degree in Information Systems at UADE with a strong passion for technology and continuous learning. As an aspiring developer, I'm diving into various programming languages and frameworks to discover where I can make the most impact in the tech world. I'm enthusiastic about building projects, exploring new tools, and honing my skills to prepare for a future in software development.
+I'm a third-year student pursuing a Bachelor's Degree in Information Systems at UADE with a strong passion for technology and continuous learning. Throughout my academic journey, I've completed numerous exercises that highlight my growing expertise. I've also undertaken a project focused on APIs to deepen my understanding of backend and front technologies. Moving forward, I am eager to expand my knowledge in cybersecurity and data analysis, aiming to forge a career in these dynamic and essential fields.
 
 
 ## 📫 Get in Touch
